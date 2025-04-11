@@ -5,8 +5,9 @@ import Login from "./components/Login";
 function App() {
   return (
     <>
-      <Navbar />
-      <Login />
+      <h1>Hello World</h1>
+      {/* <Navbar />
+      <Login /> */}
     </>
   );
 }
